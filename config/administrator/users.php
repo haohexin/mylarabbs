@@ -75,7 +75,7 @@ return [
             'title' => '用户头像',
 
             // 设置表单条目的类型，默认的 type 是 input
-            'type' => 'file',
+            'type' => 'image',
 
             // 图片上传必须设置图片存放路径
             'location' => public_path() . '/uploads/images/avatars/',
